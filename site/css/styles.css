@@ -1,0 +1,44 @@
+body{
+  background-color: #ccc;
+}
+#header-nav{
+  background-color: rgba(34,66,87,0.7);
+ padding-bottom: 22px;
+}
+.navbar-brand h1{
+  color: #000;
+  font-size: 45px;
+  font-weight: bold;
+  border-radius: 0;
+  border: 0;
+  line-height: 1.5;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+#nav-list{
+  margin-top: 20px;
+  background-color: #ccc;
+}
+#nav-list a{
+  color: #000;
+  text-align: center;
+  background-color: #ccc;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+  border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle{
+  clear: both;
+  margin-top: -10px;
+}
+#xs-deliver{
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: #000;
+}
+#main-content{
+  background-color: rgba(255,255,88,0.8);
+  padding: 10px;
+
+}
